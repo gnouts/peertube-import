@@ -1,3 +1,7 @@
+! This repo is a cloned used for visibilty and issues.
+
+! For the most updated code, see the project here : https://taboulisme.com/git/nouts/peertube-import/
+
 # Import youtube videos automamagically, from a Youtube channel's rss feed
 [French ReadMe](README.md)
 
