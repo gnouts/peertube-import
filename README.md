@@ -1,3 +1,7 @@
+! Ce dépôt est un clone utilisé pour la visibilité et les issues.
+
+! Pour le code le plus à jour, voir le projet : https://taboulisme.com/git/nouts/peertube-import/
+
 # Import de video youtube automatique, basé sur le flux rss d'une chaîne
 [English ReadMe](README-en.md)
 
